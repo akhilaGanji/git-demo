@@ -8,4 +8,4 @@ creating demo for this module
 
 # Testing shortcut
 
-testing using another command which directly bypasses add command
+testing using another command which directly bypasses add command.
